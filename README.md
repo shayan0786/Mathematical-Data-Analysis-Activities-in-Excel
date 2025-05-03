@@ -64,6 +64,4 @@ Welcome to this Excel-based statistical analysis project. This repository includ
 - **Microsoft Excel** (Functions, Charts, Pivot Tables)
 - **Statistical formulas** for manual calculation & interpretation
 
----
 
-## 📁 Folder Structure
